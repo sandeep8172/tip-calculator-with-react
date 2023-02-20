@@ -1,0 +1,15 @@
+.main_box {
+    background-color: antiquewhite;
+    width: 60vw;
+    padding-bottom: 2vh;
+    margin: auto;
+    margin-top: -3.3vh;
+}
+
+.customer_list_heading {
+    text-align: center;
+}
+
+.customer_list {
+    margin-top: -6vh;
+}

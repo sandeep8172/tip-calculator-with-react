@@ -1,0 +1,33 @@
+.inputBox_section {
+    width: 60vw;
+    margin: auto;
+    text-align: center;
+    padding: 3vh 0;
+    background-color: antiquewhite;
+}
+
+.amount_box {
+    margin: 2vw 0;
+    width: 50vw;
+}
+
+hr {
+    margin-bottom: 6vh;
+}
+
+.service_list {
+    margin: 0 1vw;
+}
+
+.customer_btn {
+    margin-left: 1vw;
+    padding: 1vh;
+    border-radius: 1vh;
+    border: 1px white solid;
+    color: white;
+    background-color: rgb(77, 87, 198);
+}
+
+.customer_btn:hover {
+    background-color: rgb(29, 147, 29);
+}

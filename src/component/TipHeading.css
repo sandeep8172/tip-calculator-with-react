@@ -1,0 +1,11 @@
+.header {
+    background-color: rgb(77, 87, 198);
+    color: white;
+    width: 60vw;
+    text-align: center;
+    margin: auto;
+}
+
+p {
+    margin-top: -3vh;
+}

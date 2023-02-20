@@ -1,0 +1,32 @@
+.bottom_box {
+    background-color: antiquewhite;
+    width: 60vw;
+    margin: auto;
+}
+
+.tip_btn {
+    margin-left: 40%;
+    background-color: rgb(29, 147, 29);
+    border: none;
+    color: white;
+    padding: 1vh;
+    border-radius: 1vh;
+    margin-bottom: 1vh;
+}
+
+.tip_btn:hover {
+    background-color: rgb(77, 87, 198);
+
+}
+
+.tip_table {
+    width: 60vw;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px black solid;
+
+}
